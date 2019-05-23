@@ -1,0 +1,4 @@
+int main()
+{ cout<<”merhaba Dunya”;
+return 0;
+}

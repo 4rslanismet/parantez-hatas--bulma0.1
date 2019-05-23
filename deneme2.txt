@@ -1,0 +1,7 @@
+int main()
+{ int x=3;
+if(x==5)
+{cout<<”x=5”<<endl;
+else
+cout<<”x!=5;
+}
